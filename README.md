@@ -5,6 +5,8 @@ Configure Suricata to apply different rules to the incoming traffic from each of
 
 Run a different exploit from each of the networks to the 6th subnet, and show that the Suricata rules you have applied work and detect/block the exploit.  
 
+
+## Methodology:
 The given task can be broken into 3 main parts 
 1. Network Topology setup
 2. Configure Suricata
