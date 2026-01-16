@@ -1,3 +1,4 @@
+## Task
 Set up 6 Linux namespaces to isolate processes and networks, thus forming 6 different subnets.
 From 5 of those subnets, you have to send all network traffic through Suricata to a service listening on the sixth subnet (this can be any service, such as SSH, FTP, SFTP, etc. Ensure you understand the protocol you have chosen and how it works in depth.)    
 
